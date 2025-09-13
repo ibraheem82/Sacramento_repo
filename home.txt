@@ -1,1 +1,2 @@
 this is my home page.
+In the context of Git and version control, "main branch" and "master branch" refer to the same concept: the default or primary branch of a repository. The difference between them lies in a recent change in naming convention.
